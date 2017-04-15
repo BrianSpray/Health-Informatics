@@ -1,5 +1,5 @@
 namespace Data {
-    
+
     using System;
     using System.IO;
     using System.Text;
@@ -7,7 +7,6 @@ namespace Data {
     public class DataSetIO {
 
         private static String dataSetPath = @"data/dataset.txt";
-
         
         public DataSetIO() {
             CreateDataSetFile();
