@@ -50,5 +50,12 @@ namespace Data {
                 WriteDataSetToFile((String) (i + "," + random.Next(0, 100) + "," + gender[random.Next(0, gender.Length)] + "," + disease[random.Next(0, disease.Length)]));
             }
         }
+
+        public void ReadDataSet() {
+            var lines = File.ReadLines(dataSetPath);
+            foreach (var line in lines) {
+                Console.WriteLine(line);
+            }
+        }
     }
 }

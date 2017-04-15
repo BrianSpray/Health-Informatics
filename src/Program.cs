@@ -13,5 +13,6 @@ public class Program {
         DataSetIO dataSet = new DataSetIO();
         dataSet.CreateDataSet(1000);
         Console.WriteLine("Created dataset.");
+        dataSet.ReadDataSet();
     }
 }

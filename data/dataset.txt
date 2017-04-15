@@ -1,1001 +1,1001 @@
 patientId,age,gender,disease
-0,84,Female,Cancer
-1,85,Male,Heart Disease
-2,95,Male,Cancer
-3,74,Male,Heart Disease
-4,57,Male,Kidney Disease
-5,83,Female,Kidney Disease
-6,40,Female,Diabetes
-7,23,Female,Diabetes
-8,62,Male,Diabetes
-9,23,Male,Diabetes
-10,68,Female,Cancer
-11,19,Female,Kidney Disease
-12,54,Male,NULL
-13,90,Male,Cancer
-14,11,Male,Heart Disease
-15,34,Male,NULL
-16,82,Female,Diabetes
-17,62,Male,NULL
-18,61,Female,Kidney Disease
-19,65,Male,Heart Disease
-20,75,Female,NULL
-21,51,Male,Diabetes
-22,10,Male,Kidney Disease
-23,96,Male,Diabetes
-24,77,Male,Kidney Disease
-25,26,Male,Kidney Disease
-26,29,Male,Kidney Disease
-27,77,Male,Diabetes
-28,2,Male,Heart Disease
-29,12,Female,Cancer
-30,10,Female,Cancer
-31,58,Male,Diabetes
-32,15,Female,Cancer
-33,65,Male,NULL
-34,12,Female,Kidney Disease
-35,10,Female,NULL
-36,27,Male,Diabetes
-37,93,Male,NULL
-38,56,Female,Heart Disease
-39,57,Male,Cancer
-40,27,Female,Kidney Disease
-41,51,Female,Heart Disease
-42,26,Male,Heart Disease
-43,16,Male,Diabetes
-44,49,Female,Cancer
-45,87,Female,Diabetes
-46,73,Female,Heart Disease
-47,48,Female,Heart Disease
-48,67,Male,Diabetes
-49,20,Male,Cancer
-50,21,Female,Cancer
-51,17,Male,Heart Disease
-52,7,Female,Cancer
-53,28,Female,Kidney Disease
-54,46,Male,Heart Disease
-55,98,Male,Kidney Disease
-56,89,Female,Heart Disease
-57,75,Female,Diabetes
-58,79,Female,Cancer
-59,55,Female,Kidney Disease
-60,86,Male,Cancer
-61,17,Female,Diabetes
-62,40,Male,Heart Disease
-63,79,Female,Cancer
-64,55,Male,Cancer
-65,55,Male,Kidney Disease
-66,0,Female,Kidney Disease
-67,80,Male,Heart Disease
-68,82,Male,Kidney Disease
-69,55,Male,Diabetes
-70,12,Female,Kidney Disease
-71,30,Male,Kidney Disease
-72,48,Male,Cancer
-73,70,Female,Cancer
-74,47,Male,NULL
-75,29,Male,Heart Disease
-76,47,Male,Kidney Disease
-77,37,Female,Cancer
-78,96,Male,Kidney Disease
-79,83,Male,Diabetes
-80,79,Female,NULL
-81,65,Female,Heart Disease
-82,28,Male,Cancer
-83,31,Male,Kidney Disease
-84,60,Male,Cancer
-85,59,Male,Heart Disease
-86,43,Female,Heart Disease
-87,34,Male,Cancer
-88,82,Female,NULL
-89,61,Male,Heart Disease
-90,1,Female,NULL
-91,66,Female,Kidney Disease
-92,18,Female,Diabetes
-93,60,Male,NULL
-94,35,Male,Cancer
-95,3,Female,Heart Disease
-96,2,Male,Kidney Disease
-97,55,Male,NULL
-98,23,Male,Kidney Disease
-99,81,Female,NULL
-100,32,Female,NULL
-101,67,Male,Diabetes
-102,80,Female,Heart Disease
-103,39,Male,Diabetes
-104,76,Female,Diabetes
-105,28,Female,NULL
-106,95,Female,NULL
-107,70,Female,NULL
-108,62,Male,Heart Disease
-109,12,Male,Diabetes
-110,95,Male,NULL
-111,52,Male,Heart Disease
-112,6,Female,NULL
-113,76,Male,NULL
-114,86,Female,NULL
-115,22,Female,Diabetes
-116,27,Female,Diabetes
-117,84,Female,Cancer
-118,92,Female,Cancer
-119,93,Male,NULL
-120,16,Female,Diabetes
-121,94,Male,Cancer
-122,51,Male,Diabetes
-123,19,Male,Heart Disease
-124,8,Male,Diabetes
-125,15,Female,NULL
-126,1,Male,Kidney Disease
-127,67,Female,Diabetes
-128,97,Male,Diabetes
-129,94,Female,Kidney Disease
-130,26,Male,Kidney Disease
-131,98,Female,Diabetes
-132,31,Female,Cancer
-133,90,Female,Diabetes
-134,2,Male,Kidney Disease
-135,17,Female,Kidney Disease
-136,48,Female,Kidney Disease
-137,10,Female,Kidney Disease
-138,18,Male,NULL
-139,4,Female,Heart Disease
-140,54,Female,Kidney Disease
-141,89,Female,Cancer
-142,65,Male,Diabetes
-143,1,Female,NULL
-144,78,Male,Kidney Disease
-145,11,Female,Kidney Disease
-146,74,Female,Heart Disease
-147,82,Male,NULL
-148,86,Male,Heart Disease
-149,98,Female,Cancer
-150,70,Male,NULL
-151,83,Male,Cancer
-152,91,Male,Cancer
-153,63,Female,Kidney Disease
-154,8,Male,NULL
-155,88,Male,NULL
-156,97,Male,NULL
-157,7,Male,Cancer
-158,99,Female,Cancer
-159,79,Male,Kidney Disease
-160,87,Female,Heart Disease
-161,48,Male,Diabetes
-162,94,Female,Kidney Disease
-163,52,Male,Diabetes
-164,60,Male,Heart Disease
-165,68,Female,NULL
-166,91,Female,NULL
-167,40,Male,Kidney Disease
-168,26,Female,NULL
-169,79,Female,Kidney Disease
-170,5,Male,Cancer
-171,38,Female,NULL
-172,35,Female,Cancer
-173,35,Female,Heart Disease
-174,7,Male,NULL
+0,19,Male,NULL
+1,33,Female,Diabetes
+2,66,Male,Kidney Disease
+3,93,Female,NULL
+4,3,Female,Diabetes
+5,28,Male,Cancer
+6,86,Female,Heart Disease
+7,45,Male,Kidney Disease
+8,53,Male,Kidney Disease
+9,47,Male,Diabetes
+10,36,Male,Diabetes
+11,86,Male,Cancer
+12,59,Female,Heart Disease
+13,75,Male,NULL
+14,13,Male,NULL
+15,4,Male,NULL
+16,71,Male,Diabetes
+17,31,Male,Heart Disease
+18,89,Female,NULL
+19,22,Female,Heart Disease
+20,86,Male,NULL
+21,27,Female,Kidney Disease
+22,32,Male,Diabetes
+23,44,Female,Heart Disease
+24,80,Male,NULL
+25,38,Male,Cancer
+26,69,Male,NULL
+27,87,Female,NULL
+28,84,Male,Cancer
+29,19,Female,Diabetes
+30,17,Male,Cancer
+31,93,Female,NULL
+32,89,Female,Diabetes
+33,29,Female,Heart Disease
+34,28,Male,Kidney Disease
+35,22,Female,NULL
+36,51,Female,Diabetes
+37,79,Female,Heart Disease
+38,52,Female,Diabetes
+39,4,Male,Diabetes
+40,59,Male,Heart Disease
+41,4,Male,Heart Disease
+42,30,Female,Heart Disease
+43,99,Male,Diabetes
+44,55,Male,Kidney Disease
+45,61,Female,Diabetes
+46,11,Female,Diabetes
+47,12,Female,Diabetes
+48,8,Male,NULL
+49,74,Male,NULL
+50,44,Female,Diabetes
+51,1,Female,Diabetes
+52,99,Male,Cancer
+53,46,Female,Kidney Disease
+54,67,Female,Cancer
+55,94,Male,Cancer
+56,54,Female,Diabetes
+57,96,Female,NULL
+58,98,Male,Diabetes
+59,74,Female,NULL
+60,46,Female,Diabetes
+61,34,Female,Kidney Disease
+62,4,Female,Kidney Disease
+63,18,Female,Heart Disease
+64,46,Female,Kidney Disease
+65,91,Male,Cancer
+66,43,Male,Cancer
+67,71,Male,Diabetes
+68,47,Male,NULL
+69,61,Male,Heart Disease
+70,13,Male,Heart Disease
+71,11,Female,Heart Disease
+72,15,Male,NULL
+73,38,Female,Kidney Disease
+74,43,Male,Heart Disease
+75,7,Female,Heart Disease
+76,10,Male,Cancer
+77,28,Male,NULL
+78,76,Female,Heart Disease
+79,98,Female,Cancer
+80,71,Male,Diabetes
+81,45,Male,Heart Disease
+82,5,Male,Kidney Disease
+83,35,Female,Cancer
+84,19,Male,Heart Disease
+85,42,Male,NULL
+86,20,Male,NULL
+87,64,Female,NULL
+88,21,Female,NULL
+89,46,Male,Heart Disease
+90,0,Male,Diabetes
+91,90,Female,Diabetes
+92,18,Female,Heart Disease
+93,91,Male,Cancer
+94,61,Female,Heart Disease
+95,90,Male,Heart Disease
+96,57,Male,Diabetes
+97,51,Female,Diabetes
+98,8,Male,NULL
+99,56,Male,Cancer
+100,43,Female,NULL
+101,41,Male,Diabetes
+102,65,Male,Heart Disease
+103,77,Male,Heart Disease
+104,51,Male,Heart Disease
+105,82,Male,Kidney Disease
+106,63,Male,Kidney Disease
+107,67,Female,Cancer
+108,76,Male,Heart Disease
+109,99,Female,Kidney Disease
+110,53,Female,Kidney Disease
+111,13,Male,Diabetes
+112,16,Male,Diabetes
+113,72,Male,Kidney Disease
+114,88,Female,Cancer
+115,19,Female,Diabetes
+116,9,Male,Cancer
+117,18,Female,NULL
+118,40,Female,Kidney Disease
+119,96,Female,NULL
+120,19,Female,Diabetes
+121,76,Male,Kidney Disease
+122,53,Male,NULL
+123,94,Female,NULL
+124,33,Female,Cancer
+125,98,Female,Cancer
+126,93,Female,Diabetes
+127,91,Female,Diabetes
+128,57,Male,Kidney Disease
+129,83,Female,Kidney Disease
+130,72,Male,Diabetes
+131,55,Female,Diabetes
+132,31,Male,Diabetes
+133,46,Female,Kidney Disease
+134,65,Male,Kidney Disease
+135,20,Female,Cancer
+136,85,Male,NULL
+137,61,Male,Cancer
+138,35,Male,Kidney Disease
+139,91,Male,NULL
+140,93,Female,Kidney Disease
+141,10,Male,Diabetes
+142,28,Female,Heart Disease
+143,47,Female,Kidney Disease
+144,53,Male,NULL
+145,88,Male,Kidney Disease
+146,95,Male,Diabetes
+147,67,Female,Heart Disease
+148,74,Male,Cancer
+149,45,Male,Heart Disease
+150,83,Male,NULL
+151,66,Female,NULL
+152,96,Female,NULL
+153,14,Female,Cancer
+154,63,Male,Kidney Disease
+155,29,Male,Diabetes
+156,16,Male,Cancer
+157,99,Female,NULL
+158,37,Male,Kidney Disease
+159,33,Male,Cancer
+160,27,Female,Diabetes
+161,12,Female,Heart Disease
+162,74,Female,NULL
+163,96,Female,Kidney Disease
+164,84,Female,Diabetes
+165,45,Male,Diabetes
+166,57,Male,Cancer
+167,63,Male,Kidney Disease
+168,24,Female,Diabetes
+169,9,Male,Heart Disease
+170,21,Female,Heart Disease
+171,80,Female,Cancer
+172,45,Female,Kidney Disease
+173,45,Female,Heart Disease
+174,59,Male,Diabetes
 175,31,Male,Cancer
-176,89,Male,NULL
-177,11,Female,Cancer
-178,92,Male,Kidney Disease
-179,57,Male,Kidney Disease
-180,60,Male,Cancer
-181,8,Male,Cancer
-182,41,Male,Heart Disease
-183,42,Male,Cancer
-184,82,Female,Cancer
-185,47,Male,Diabetes
-186,85,Female,Cancer
-187,77,Female,Diabetes
-188,68,Female,Heart Disease
-189,6,Male,Heart Disease
-190,19,Female,Heart Disease
-191,49,Female,Kidney Disease
-192,26,Female,NULL
-193,79,Female,Heart Disease
-194,83,Male,NULL
-195,82,Male,Heart Disease
-196,98,Male,Cancer
-197,8,Female,Heart Disease
-198,50,Female,Heart Disease
-199,56,Male,Diabetes
-200,83,Male,Kidney Disease
-201,6,Male,Diabetes
-202,75,Male,NULL
-203,27,Male,Heart Disease
-204,59,Male,Cancer
-205,91,Female,Diabetes
-206,56,Female,Kidney Disease
-207,91,Male,Cancer
-208,14,Male,Cancer
-209,11,Female,NULL
-210,52,Female,Diabetes
-211,43,Female,Diabetes
-212,49,Female,Heart Disease
-213,43,Male,NULL
-214,52,Female,Heart Disease
-215,80,Male,Kidney Disease
-216,22,Female,NULL
-217,81,Female,Diabetes
-218,88,Female,Heart Disease
-219,72,Female,Cancer
-220,46,Female,Heart Disease
-221,86,Female,Diabetes
-222,73,Male,Cancer
-223,47,Male,Cancer
-224,19,Male,Kidney Disease
-225,69,Male,Heart Disease
-226,79,Male,Kidney Disease
-227,43,Female,Diabetes
-228,5,Female,Kidney Disease
-229,5,Female,Cancer
-230,29,Female,NULL
-231,11,Female,Diabetes
-232,63,Female,NULL
-233,70,Male,Heart Disease
-234,53,Female,Cancer
-235,70,Female,NULL
-236,75,Male,Diabetes
-237,90,Female,Diabetes
-238,51,Male,Kidney Disease
-239,92,Female,Cancer
-240,82,Female,Kidney Disease
-241,8,Male,Kidney Disease
-242,31,Male,Cancer
-243,35,Male,Kidney Disease
-244,40,Male,Heart Disease
-245,27,Female,Cancer
-246,22,Male,Cancer
-247,83,Male,Heart Disease
-248,47,Male,NULL
-249,29,Female,NULL
-250,67,Female,NULL
-251,91,Female,Heart Disease
-252,72,Male,Diabetes
-253,53,Male,Diabetes
-254,71,Male,Cancer
-255,82,Male,NULL
-256,28,Male,Cancer
-257,60,Female,Diabetes
-258,95,Female,Heart Disease
-259,24,Female,Kidney Disease
-260,80,Male,Diabetes
-261,21,Female,Heart Disease
-262,88,Male,Heart Disease
-263,89,Female,Diabetes
-264,57,Female,NULL
-265,55,Male,NULL
-266,22,Female,NULL
-267,99,Male,Heart Disease
-268,80,Male,Cancer
-269,36,Female,NULL
-270,99,Male,NULL
-271,77,Female,Heart Disease
-272,3,Male,Kidney Disease
-273,78,Female,Cancer
-274,63,Male,Kidney Disease
-275,68,Male,NULL
-276,52,Male,NULL
-277,48,Male,NULL
-278,88,Female,Cancer
-279,12,Male,Kidney Disease
-280,33,Female,Diabetes
-281,30,Female,Cancer
-282,61,Female,NULL
-283,56,Female,Kidney Disease
-284,16,Male,Kidney Disease
-285,89,Male,Kidney Disease
-286,68,Male,Cancer
-287,1,Female,Diabetes
-288,3,Female,Diabetes
-289,88,Female,NULL
-290,35,Female,Cancer
-291,12,Male,Diabetes
-292,45,Male,Diabetes
-293,59,Male,Heart Disease
-294,2,Female,NULL
-295,24,Male,Diabetes
-296,22,Female,Diabetes
-297,40,Male,Heart Disease
-298,57,Male,Kidney Disease
-299,99,Male,Heart Disease
-300,63,Female,NULL
-301,6,Male,Kidney Disease
-302,53,Male,NULL
-303,30,Male,Cancer
-304,12,Male,Cancer
-305,80,Female,NULL
-306,66,Female,Cancer
-307,85,Female,NULL
-308,45,Female,Diabetes
-309,81,Female,Cancer
-310,73,Male,Cancer
-311,9,Female,Heart Disease
-312,31,Female,Kidney Disease
-313,27,Female,Heart Disease
-314,60,Female,Diabetes
-315,42,Male,Heart Disease
-316,22,Female,Heart Disease
-317,80,Male,Diabetes
-318,20,Female,Cancer
-319,1,Female,Heart Disease
-320,12,Female,Diabetes
-321,85,Female,NULL
-322,96,Male,Cancer
-323,71,Male,Cancer
-324,12,Male,Cancer
-325,91,Male,Kidney Disease
-326,34,Male,Kidney Disease
-327,14,Female,Kidney Disease
-328,80,Female,Cancer
-329,56,Female,Cancer
-330,27,Male,Heart Disease
-331,49,Male,NULL
-332,77,Female,Heart Disease
-333,56,Male,Heart Disease
-334,20,Female,Heart Disease
-335,29,Female,NULL
-336,41,Male,Diabetes
-337,32,Female,Diabetes
-338,58,Female,Cancer
-339,71,Male,Kidney Disease
-340,84,Male,Cancer
-341,95,Male,Cancer
-342,66,Female,Heart Disease
-343,8,Male,Diabetes
-344,38,Female,Diabetes
-345,42,Female,Cancer
-346,49,Female,Heart Disease
-347,20,Male,Diabetes
-348,66,Female,Kidney Disease
-349,79,Female,Cancer
-350,85,Male,Kidney Disease
-351,71,Female,Cancer
-352,9,Male,Cancer
-353,9,Female,Cancer
-354,69,Male,Cancer
-355,0,Female,NULL
-356,0,Male,Cancer
-357,5,Male,Diabetes
-358,37,Female,Heart Disease
-359,57,Male,Diabetes
-360,55,Female,Kidney Disease
-361,6,Male,Cancer
-362,82,Female,Cancer
-363,51,Male,Kidney Disease
-364,0,Male,NULL
-365,21,Female,NULL
-366,42,Female,Cancer
-367,74,Female,Kidney Disease
-368,12,Female,NULL
-369,13,Male,Cancer
-370,80,Female,NULL
-371,59,Female,Kidney Disease
-372,31,Female,Cancer
-373,8,Male,Heart Disease
-374,83,Male,NULL
-375,35,Male,NULL
-376,67,Male,Cancer
-377,43,Male,Kidney Disease
-378,46,Female,Cancer
-379,97,Female,Diabetes
-380,23,Female,Heart Disease
-381,96,Female,NULL
-382,74,Male,NULL
-383,12,Female,NULL
-384,70,Male,Diabetes
-385,75,Female,Heart Disease
-386,92,Female,Kidney Disease
-387,2,Male,Cancer
-388,96,Male,Heart Disease
-389,30,Male,Kidney Disease
-390,66,Male,Kidney Disease
-391,68,Female,Diabetes
-392,93,Female,Kidney Disease
-393,0,Female,Kidney Disease
-394,96,Female,Heart Disease
-395,23,Female,NULL
-396,16,Female,NULL
-397,79,Male,Cancer
-398,67,Male,Heart Disease
-399,15,Female,Heart Disease
-400,44,Male,Heart Disease
-401,10,Male,Diabetes
-402,20,Male,Diabetes
-403,98,Female,Cancer
-404,51,Female,Cancer
-405,10,Male,NULL
-406,89,Female,Kidney Disease
-407,56,Male,Diabetes
-408,83,Female,Heart Disease
-409,51,Male,Kidney Disease
-410,26,Female,NULL
-411,44,Female,Cancer
-412,35,Female,Cancer
-413,71,Male,Kidney Disease
-414,32,Male,NULL
-415,87,Male,Cancer
-416,99,Female,Cancer
-417,30,Male,Heart Disease
-418,71,Female,Heart Disease
-419,86,Male,Diabetes
-420,26,Female,Cancer
-421,82,Female,Cancer
-422,14,Male,Heart Disease
-423,0,Female,Heart Disease
-424,83,Male,Kidney Disease
-425,91,Male,NULL
-426,51,Female,Diabetes
-427,17,Female,Diabetes
-428,51,Female,Diabetes
-429,62,Female,Kidney Disease
-430,87,Male,Diabetes
-431,48,Male,Heart Disease
-432,71,Male,Diabetes
-433,85,Female,Heart Disease
-434,74,Female,NULL
-435,93,Male,Cancer
-436,55,Female,Kidney Disease
-437,33,Male,Heart Disease
-438,0,Male,Cancer
-439,54,Male,Kidney Disease
-440,52,Female,Heart Disease
-441,70,Male,Heart Disease
-442,61,Male,Kidney Disease
-443,35,Male,Kidney Disease
-444,49,Female,Heart Disease
-445,38,Male,Diabetes
-446,64,Female,Diabetes
-447,43,Male,NULL
-448,2,Female,Cancer
-449,28,Male,Heart Disease
-450,18,Male,Cancer
-451,71,Male,Heart Disease
-452,86,Male,NULL
-453,53,Male,Cancer
-454,35,Male,Kidney Disease
-455,91,Female,Kidney Disease
-456,7,Female,Kidney Disease
-457,63,Female,Kidney Disease
-458,25,Male,Diabetes
-459,40,Female,Diabetes
-460,13,Male,NULL
-461,36,Male,Cancer
-462,55,Female,Heart Disease
-463,0,Female,Heart Disease
-464,65,Male,Heart Disease
-465,37,Male,NULL
-466,33,Male,Kidney Disease
-467,44,Male,NULL
-468,68,Female,Heart Disease
-469,45,Male,Heart Disease
-470,78,Male,Heart Disease
-471,28,Male,NULL
-472,25,Female,Cancer
-473,57,Male,Cancer
-474,35,Male,Cancer
-475,29,Female,NULL
-476,46,Female,Cancer
-477,56,Male,Diabetes
-478,88,Female,Cancer
-479,99,Female,Kidney Disease
-480,76,Male,Heart Disease
-481,8,Male,Cancer
-482,1,Male,Kidney Disease
-483,28,Male,Cancer
-484,84,Female,Kidney Disease
-485,64,Male,Cancer
-486,76,Male,Diabetes
-487,45,Female,Diabetes
-488,23,Male,Heart Disease
-489,78,Male,Kidney Disease
-490,86,Male,Heart Disease
-491,39,Female,Heart Disease
-492,72,Male,NULL
-493,3,Male,Kidney Disease
-494,9,Male,Kidney Disease
-495,90,Female,Heart Disease
-496,83,Male,Diabetes
-497,98,Male,Heart Disease
-498,7,Male,Cancer
-499,74,Female,NULL
-500,68,Male,NULL
-501,99,Male,NULL
-502,79,Male,NULL
-503,48,Female,NULL
-504,29,Female,Cancer
-505,95,Male,NULL
-506,82,Male,Diabetes
-507,5,Female,Cancer
-508,11,Female,Cancer
-509,1,Male,Diabetes
-510,16,Female,Diabetes
-511,85,Male,Cancer
-512,63,Male,Kidney Disease
-513,88,Male,Heart Disease
-514,36,Male,Heart Disease
-515,77,Female,Diabetes
-516,16,Male,NULL
-517,28,Female,Diabetes
-518,48,Female,Heart Disease
-519,80,Female,Diabetes
-520,84,Female,Cancer
-521,46,Male,NULL
-522,41,Male,Heart Disease
-523,6,Male,Heart Disease
-524,7,Female,Heart Disease
-525,25,Female,Kidney Disease
-526,85,Male,Cancer
-527,52,Female,Heart Disease
-528,53,Female,Cancer
-529,88,Male,Kidney Disease
-530,78,Female,Heart Disease
-531,20,Male,Heart Disease
-532,12,Female,Cancer
-533,36,Male,Heart Disease
-534,12,Male,NULL
-535,70,Male,NULL
-536,31,Male,NULL
-537,66,Female,Diabetes
-538,35,Male,NULL
-539,92,Female,Diabetes
-540,89,Female,Cancer
-541,65,Male,Diabetes
-542,1,Female,NULL
-543,86,Male,Kidney Disease
-544,57,Male,NULL
-545,93,Male,Kidney Disease
-546,40,Female,Kidney Disease
-547,7,Female,Cancer
-548,78,Male,NULL
-549,70,Female,Kidney Disease
-550,41,Male,NULL
-551,58,Male,NULL
-552,19,Male,NULL
-553,32,Female,Heart Disease
-554,8,Male,Cancer
-555,14,Male,Diabetes
-556,54,Male,NULL
-557,17,Female,Cancer
-558,78,Female,NULL
-559,91,Female,Cancer
-560,58,Male,Cancer
-561,16,Male,NULL
-562,82,Female,Cancer
-563,16,Female,NULL
-564,92,Male,Cancer
-565,31,Female,Cancer
-566,4,Female,Cancer
-567,43,Male,Diabetes
-568,81,Male,Kidney Disease
-569,87,Female,Kidney Disease
-570,85,Male,Kidney Disease
-571,65,Female,Heart Disease
-572,32,Female,NULL
-573,16,Male,Cancer
-574,44,Male,Kidney Disease
-575,97,Male,Diabetes
-576,93,Male,NULL
-577,85,Female,Heart Disease
-578,14,Male,Cancer
-579,59,Male,Heart Disease
-580,27,Female,Cancer
-581,35,Male,Diabetes
-582,33,Male,Heart Disease
-583,78,Female,Cancer
-584,11,Female,Heart Disease
-585,91,Female,Kidney Disease
-586,73,Female,NULL
-587,20,Female,Heart Disease
-588,81,Male,Diabetes
-589,38,Female,Diabetes
-590,20,Female,Diabetes
-591,78,Female,Heart Disease
-592,92,Male,Cancer
-593,22,Female,NULL
-594,12,Male,Diabetes
-595,76,Female,NULL
-596,88,Male,Cancer
-597,38,Female,Diabetes
-598,22,Male,Cancer
-599,83,Female,Heart Disease
-600,5,Female,Kidney Disease
-601,72,Female,Heart Disease
-602,50,Male,NULL
-603,95,Female,NULL
-604,70,Female,Cancer
-605,0,Male,Kidney Disease
-606,86,Male,Heart Disease
-607,40,Male,Heart Disease
-608,45,Female,NULL
-609,4,Female,NULL
-610,37,Male,Diabetes
-611,78,Male,Kidney Disease
-612,21,Male,Diabetes
-613,22,Male,Diabetes
-614,1,Female,Heart Disease
-615,23,Female,Heart Disease
-616,32,Male,NULL
-617,21,Female,Diabetes
-618,2,Female,Diabetes
-619,48,Male,Kidney Disease
-620,38,Male,Kidney Disease
-621,15,Female,NULL
-622,37,Female,Heart Disease
-623,49,Female,Kidney Disease
-624,22,Female,Kidney Disease
-625,86,Male,Diabetes
-626,4,Male,Cancer
-627,51,Female,Heart Disease
-628,84,Male,Cancer
-629,5,Female,Diabetes
-630,24,Female,Cancer
-631,80,Female,Kidney Disease
-632,63,Female,Heart Disease
-633,34,Female,Kidney Disease
-634,1,Female,Diabetes
-635,29,Female,Heart Disease
-636,68,Male,Heart Disease
-637,88,Male,Cancer
-638,61,Female,Kidney Disease
-639,43,Male,Diabetes
-640,76,Male,Cancer
-641,82,Male,Cancer
-642,56,Male,NULL
-643,0,Male,Diabetes
-644,21,Female,Heart Disease
-645,38,Male,NULL
-646,89,Female,Cancer
-647,80,Male,Kidney Disease
-648,24,Male,Heart Disease
-649,5,Male,NULL
-650,4,Male,Diabetes
-651,92,Female,Diabetes
-652,59,Male,Diabetes
-653,37,Female,Diabetes
-654,51,Female,NULL
-655,72,Female,Kidney Disease
-656,71,Male,Heart Disease
-657,85,Female,Kidney Disease
-658,25,Female,NULL
-659,56,Female,NULL
-660,77,Female,Heart Disease
-661,83,Female,Cancer
-662,99,Male,Cancer
-663,79,Female,Heart Disease
-664,31,Female,NULL
-665,59,Male,Kidney Disease
-666,67,Female,Kidney Disease
-667,55,Male,NULL
-668,59,Male,Kidney Disease
-669,78,Female,Kidney Disease
-670,60,Male,Kidney Disease
-671,66,Female,Heart Disease
-672,34,Female,Kidney Disease
-673,89,Female,Heart Disease
-674,61,Female,Diabetes
-675,7,Female,Cancer
-676,92,Female,Kidney Disease
-677,25,Female,Cancer
-678,22,Male,Cancer
-679,27,Male,Kidney Disease
-680,38,Male,Kidney Disease
-681,48,Male,Kidney Disease
-682,68,Female,NULL
-683,62,Male,Kidney Disease
-684,96,Female,Kidney Disease
-685,29,Female,Diabetes
-686,52,Female,Kidney Disease
-687,63,Female,Cancer
-688,97,Male,Cancer
-689,56,Male,Heart Disease
-690,3,Male,Diabetes
-691,95,Female,Diabetes
-692,77,Male,Kidney Disease
-693,67,Male,NULL
-694,8,Male,Heart Disease
-695,4,Male,Cancer
-696,27,Female,Heart Disease
-697,74,Female,Kidney Disease
-698,12,Female,Heart Disease
-699,58,Female,NULL
-700,61,Male,Heart Disease
-701,54,Female,Cancer
-702,17,Male,Heart Disease
-703,27,Female,NULL
-704,70,Female,Cancer
-705,75,Female,Diabetes
-706,62,Female,Cancer
-707,4,Male,Diabetes
-708,11,Male,Heart Disease
-709,72,Female,Kidney Disease
-710,15,Male,Kidney Disease
-711,88,Male,Heart Disease
-712,68,Female,Kidney Disease
-713,21,Female,Heart Disease
-714,83,Male,Heart Disease
-715,46,Male,NULL
-716,57,Male,Cancer
-717,81,Female,Diabetes
-718,78,Female,NULL
-719,67,Male,Heart Disease
-720,86,Male,Cancer
-721,49,Male,Heart Disease
-722,19,Female,Kidney Disease
-723,86,Male,Cancer
-724,82,Male,Cancer
-725,76,Male,Heart Disease
-726,13,Female,Heart Disease
-727,41,Male,Diabetes
-728,58,Male,Heart Disease
-729,3,Male,Diabetes
-730,43,Male,Cancer
-731,40,Male,Diabetes
-732,10,Male,NULL
-733,4,Male,Heart Disease
-734,10,Female,Heart Disease
-735,18,Female,Diabetes
-736,51,Male,Heart Disease
-737,54,Female,Kidney Disease
-738,6,Male,Heart Disease
-739,71,Female,Kidney Disease
-740,13,Male,Kidney Disease
-741,31,Male,Cancer
-742,88,Male,Cancer
-743,64,Female,NULL
-744,40,Male,Heart Disease
-745,1,Male,Diabetes
-746,17,Male,Heart Disease
-747,65,Female,Cancer
-748,10,Female,Diabetes
-749,33,Male,NULL
-750,12,Male,Diabetes
-751,9,Female,Cancer
-752,48,Female,Heart Disease
-753,24,Male,Diabetes
-754,49,Female,Heart Disease
-755,50,Male,Diabetes
-756,40,Male,Cancer
-757,85,Female,Diabetes
-758,44,Male,Kidney Disease
-759,66,Male,Diabetes
-760,57,Female,Cancer
-761,16,Female,Heart Disease
-762,44,Male,Cancer
-763,26,Female,Diabetes
-764,16,Female,Cancer
-765,77,Male,Kidney Disease
-766,71,Female,Kidney Disease
-767,3,Female,Heart Disease
-768,75,Male,NULL
-769,90,Female,Diabetes
-770,46,Female,Diabetes
-771,72,Female,Kidney Disease
-772,49,Male,Heart Disease
-773,8,Male,NULL
-774,26,Male,Diabetes
-775,62,Female,Kidney Disease
-776,42,Female,Heart Disease
-777,0,Female,Kidney Disease
-778,80,Female,Kidney Disease
-779,78,Male,Heart Disease
-780,43,Female,Kidney Disease
-781,73,Female,Kidney Disease
-782,94,Male,Heart Disease
-783,34,Male,NULL
-784,27,Female,Diabetes
-785,90,Female,Kidney Disease
-786,77,Male,Diabetes
-787,23,Male,NULL
-788,12,Male,NULL
-789,96,Female,Cancer
-790,11,Female,NULL
-791,12,Female,Diabetes
-792,18,Female,Heart Disease
-793,80,Female,Heart Disease
-794,34,Male,Heart Disease
-795,48,Female,Heart Disease
-796,7,Female,Kidney Disease
-797,84,Male,Heart Disease
-798,63,Male,Cancer
-799,67,Female,Heart Disease
-800,83,Female,Diabetes
-801,13,Male,Diabetes
-802,89,Male,NULL
-803,3,Female,Heart Disease
-804,44,Female,Diabetes
-805,35,Female,Diabetes
-806,58,Female,Kidney Disease
-807,54,Female,Cancer
-808,35,Male,Kidney Disease
-809,66,Male,Diabetes
-810,44,Female,NULL
-811,99,Female,Kidney Disease
-812,72,Male,NULL
-813,82,Female,Diabetes
-814,35,Male,Cancer
-815,53,Male,Cancer
-816,80,Male,Heart Disease
-817,66,Male,NULL
-818,61,Male,Cancer
-819,49,Female,NULL
-820,88,Male,Kidney Disease
-821,51,Female,Heart Disease
-822,32,Male,NULL
-823,77,Female,Kidney Disease
-824,55,Female,Cancer
-825,14,Male,NULL
-826,83,Female,NULL
-827,63,Female,Heart Disease
-828,13,Female,Diabetes
-829,93,Male,Kidney Disease
-830,59,Male,Diabetes
-831,89,Female,Heart Disease
-832,93,Female,Diabetes
-833,98,Male,NULL
-834,5,Male,Kidney Disease
-835,64,Male,Heart Disease
-836,94,Male,Cancer
-837,24,Female,NULL
-838,6,Male,Heart Disease
-839,45,Male,NULL
-840,78,Male,Cancer
-841,31,Male,Heart Disease
-842,24,Female,NULL
-843,66,Male,Heart Disease
-844,40,Female,Kidney Disease
-845,94,Female,NULL
-846,55,Male,Kidney Disease
-847,8,Female,NULL
-848,57,Male,Diabetes
-849,46,Female,Kidney Disease
-850,1,Male,Diabetes
-851,64,Male,NULL
-852,87,Female,NULL
-853,25,Male,Diabetes
-854,50,Male,Heart Disease
-855,74,Female,NULL
-856,34,Male,Kidney Disease
-857,52,Female,NULL
-858,13,Female,Heart Disease
-859,14,Female,NULL
-860,82,Female,NULL
-861,14,Female,Kidney Disease
-862,90,Female,Kidney Disease
-863,79,Male,NULL
-864,98,Male,Cancer
-865,23,Female,Kidney Disease
-866,65,Female,Diabetes
-867,76,Male,Kidney Disease
-868,0,Male,Diabetes
-869,56,Female,Diabetes
-870,41,Female,Cancer
-871,3,Male,Kidney Disease
-872,60,Male,Kidney Disease
-873,53,Female,Cancer
-874,16,Female,Cancer
-875,84,Female,Kidney Disease
-876,79,Female,Cancer
-877,68,Male,NULL
-878,29,Male,Kidney Disease
-879,12,Male,Cancer
-880,14,Male,Heart Disease
-881,13,Male,Heart Disease
-882,83,Female,NULL
-883,46,Female,Heart Disease
-884,8,Male,NULL
-885,43,Female,Diabetes
-886,66,Male,NULL
-887,98,Female,Kidney Disease
-888,39,Female,Heart Disease
-889,9,Female,Heart Disease
-890,98,Male,Heart Disease
-891,47,Male,Diabetes
-892,83,Male,Cancer
-893,71,Male,Diabetes
-894,73,Male,Heart Disease
-895,88,Female,Heart Disease
-896,91,Female,Diabetes
-897,6,Male,NULL
-898,20,Male,Diabetes
-899,63,Female,Kidney Disease
-900,10,Female,Heart Disease
-901,48,Male,Cancer
-902,1,Female,Kidney Disease
-903,48,Female,Diabetes
-904,42,Female,Cancer
-905,35,Male,Diabetes
-906,34,Female,Cancer
-907,85,Male,NULL
-908,91,Female,Cancer
-909,22,Male,Heart Disease
-910,94,Male,Heart Disease
-911,52,Female,Heart Disease
-912,39,Male,NULL
-913,10,Female,NULL
-914,64,Male,Heart Disease
-915,88,Female,Diabetes
-916,83,Female,NULL
-917,13,Male,Heart Disease
-918,50,Male,Diabetes
-919,32,Female,Diabetes
-920,14,Female,Heart Disease
-921,50,Female,Diabetes
-922,29,Female,Heart Disease
-923,88,Female,NULL
-924,57,Male,Kidney Disease
-925,15,Male,Kidney Disease
-926,61,Male,Heart Disease
-927,50,Male,Diabetes
-928,30,Female,NULL
-929,2,Male,Heart Disease
-930,71,Male,Kidney Disease
-931,29,Female,Cancer
-932,63,Male,NULL
-933,85,Female,Kidney Disease
-934,16,Female,NULL
-935,92,Female,Cancer
-936,61,Male,Cancer
-937,79,Female,Diabetes
-938,28,Female,Diabetes
-939,94,Male,Kidney Disease
-940,49,Male,NULL
-941,99,Male,NULL
-942,32,Male,Heart Disease
-943,55,Female,Cancer
-944,87,Female,Diabetes
-945,53,Male,Diabetes
-946,50,Male,Heart Disease
-947,85,Male,Kidney Disease
-948,31,Female,Heart Disease
-949,13,Male,Heart Disease
-950,66,Female,NULL
-951,15,Male,Heart Disease
-952,86,Male,Kidney Disease
-953,2,Female,Heart Disease
-954,77,Male,NULL
-955,96,Female,NULL
-956,9,Female,Heart Disease
-957,95,Male,NULL
-958,47,Female,NULL
-959,21,Female,Heart Disease
-960,51,Male,Heart Disease
-961,94,Female,NULL
-962,14,Female,Diabetes
-963,12,Female,Cancer
-964,68,Male,Kidney Disease
-965,99,Male,Heart Disease
-966,83,Male,Cancer
-967,42,Male,Heart Disease
-968,3,Female,Heart Disease
-969,11,Female,Kidney Disease
-970,46,Female,Diabetes
-971,51,Female,Diabetes
-972,98,Female,Cancer
-973,1,Female,Cancer
-974,53,Female,Cancer
-975,11,Male,NULL
-976,3,Male,Diabetes
-977,50,Male,Heart Disease
-978,24,Male,Cancer
-979,1,Female,Cancer
-980,56,Male,Cancer
-981,68,Female,Cancer
-982,70,Male,NULL
-983,38,Male,Heart Disease
-984,17,Female,Diabetes
-985,81,Female,Cancer
-986,18,Female,Diabetes
-987,30,Male,Cancer
-988,17,Female,Heart Disease
-989,14,Male,Diabetes
-990,24,Female,NULL
-991,99,Male,Kidney Disease
-992,14,Female,Heart Disease
-993,4,Male,Cancer
-994,97,Female,Diabetes
-995,28,Male,Diabetes
-996,79,Male,Heart Disease
-997,9,Female,NULL
-998,73,Male,NULL
-999,84,Female,Kidney Disease
+176,37,Female,Heart Disease
+177,13,Female,NULL
+178,8,Female,Diabetes
+179,87,Female,NULL
+180,84,Female,Diabetes
+181,69,Female,Heart Disease
+182,50,Male,NULL
+183,36,Male,Diabetes
+184,84,Male,NULL
+185,81,Male,Cancer
+186,16,Female,Kidney Disease
+187,29,Female,Heart Disease
+188,2,Male,NULL
+189,29,Female,Heart Disease
+190,54,Female,Kidney Disease
+191,94,Female,NULL
+192,64,Female,Diabetes
+193,26,Female,Cancer
+194,21,Male,NULL
+195,71,Male,Kidney Disease
+196,1,Male,Kidney Disease
+197,44,Female,NULL
+198,11,Female,NULL
+199,20,Female,Kidney Disease
+200,41,Male,Heart Disease
+201,69,Female,Diabetes
+202,88,Female,Diabetes
+203,0,Male,Cancer
+204,64,Female,Cancer
+205,56,Male,Kidney Disease
+206,46,Male,Kidney Disease
+207,22,Male,Diabetes
+208,62,Male,NULL
+209,69,Female,Cancer
+210,95,Male,Heart Disease
+211,77,Female,Diabetes
+212,79,Female,Heart Disease
+213,48,Female,Heart Disease
+214,15,Male,Cancer
+215,47,Female,NULL
+216,81,Female,Diabetes
+217,23,Female,Heart Disease
+218,87,Male,NULL
+219,87,Male,Kidney Disease
+220,56,Male,Cancer
+221,43,Male,Kidney Disease
+222,89,Female,Cancer
+223,52,Female,Diabetes
+224,49,Female,Diabetes
+225,39,Male,Heart Disease
+226,34,Male,Heart Disease
+227,4,Female,Heart Disease
+228,58,Female,Kidney Disease
+229,87,Female,Kidney Disease
+230,66,Female,Diabetes
+231,49,Female,Kidney Disease
+232,31,Female,NULL
+233,37,Female,NULL
+234,77,Male,Kidney Disease
+235,90,Female,Kidney Disease
+236,86,Male,Cancer
+237,66,Female,NULL
+238,39,Female,Heart Disease
+239,79,Female,Heart Disease
+240,2,Male,NULL
+241,36,Female,NULL
+242,12,Male,Cancer
+243,84,Male,Heart Disease
+244,29,Female,Diabetes
+245,38,Male,Diabetes
+246,50,Female,NULL
+247,94,Male,Diabetes
+248,55,Female,Heart Disease
+249,51,Male,Heart Disease
+250,33,Female,NULL
+251,64,Male,Diabetes
+252,95,Male,Diabetes
+253,90,Female,Kidney Disease
+254,69,Male,Heart Disease
+255,74,Male,Diabetes
+256,36,Male,Heart Disease
+257,71,Male,Cancer
+258,34,Male,Cancer
+259,53,Female,NULL
+260,49,Female,NULL
+261,68,Female,Diabetes
+262,49,Female,Kidney Disease
+263,99,Male,NULL
+264,16,Female,NULL
+265,24,Male,NULL
+266,3,Female,Kidney Disease
+267,80,Male,Cancer
+268,11,Female,Heart Disease
+269,70,Male,Heart Disease
+270,55,Male,Diabetes
+271,55,Male,Cancer
+272,83,Male,Diabetes
+273,83,Male,Kidney Disease
+274,94,Male,Diabetes
+275,41,Female,Kidney Disease
+276,26,Male,NULL
+277,2,Female,Cancer
+278,23,Female,Diabetes
+279,79,Female,NULL
+280,33,Female,Heart Disease
+281,36,Male,Cancer
+282,25,Female,Cancer
+283,74,Male,Heart Disease
+284,46,Male,Diabetes
+285,90,Female,Kidney Disease
+286,52,Female,Cancer
+287,53,Male,Cancer
+288,42,Female,NULL
+289,59,Male,Kidney Disease
+290,69,Male,Diabetes
+291,61,Female,Diabetes
+292,37,Female,NULL
+293,56,Male,NULL
+294,50,Female,Kidney Disease
+295,59,Female,Heart Disease
+296,44,Male,NULL
+297,68,Male,NULL
+298,83,Female,Heart Disease
+299,14,Female,NULL
+300,10,Female,Heart Disease
+301,45,Male,Heart Disease
+302,79,Female,Kidney Disease
+303,9,Female,Heart Disease
+304,86,Female,Diabetes
+305,11,Male,NULL
+306,49,Female,NULL
+307,60,Male,NULL
+308,90,Male,Kidney Disease
+309,58,Female,Kidney Disease
+310,11,Male,Kidney Disease
+311,1,Male,Diabetes
+312,66,Male,Diabetes
+313,34,Female,Kidney Disease
+314,61,Male,Kidney Disease
+315,52,Female,Heart Disease
+316,33,Female,Kidney Disease
+317,42,Female,Cancer
+318,93,Male,Diabetes
+319,28,Female,Cancer
+320,58,Male,Cancer
+321,98,Female,Heart Disease
+322,66,Female,Diabetes
+323,1,Male,NULL
+324,45,Male,Cancer
+325,25,Female,NULL
+326,20,Male,Cancer
+327,46,Male,Cancer
+328,94,Female,Diabetes
+329,50,Male,NULL
+330,1,Male,Diabetes
+331,42,Female,Diabetes
+332,65,Female,Heart Disease
+333,47,Female,NULL
+334,79,Male,Heart Disease
+335,79,Female,Diabetes
+336,9,Female,Diabetes
+337,69,Male,Cancer
+338,84,Male,NULL
+339,0,Male,Heart Disease
+340,74,Male,Kidney Disease
+341,54,Female,Cancer
+342,45,Male,Diabetes
+343,42,Female,Heart Disease
+344,43,Female,Diabetes
+345,21,Female,NULL
+346,77,Male,Kidney Disease
+347,7,Male,Heart Disease
+348,45,Male,Heart Disease
+349,35,Female,Kidney Disease
+350,63,Female,Diabetes
+351,6,Female,Kidney Disease
+352,19,Male,Heart Disease
+353,21,Male,NULL
+354,9,Female,Cancer
+355,13,Male,Heart Disease
+356,64,Female,Diabetes
+357,2,Male,NULL
+358,58,Female,Kidney Disease
+359,38,Male,Kidney Disease
+360,77,Male,Diabetes
+361,76,Female,NULL
+362,78,Male,Cancer
+363,81,Male,Diabetes
+364,61,Female,NULL
+365,76,Female,Kidney Disease
+366,30,Male,Cancer
+367,93,Female,NULL
+368,18,Female,Diabetes
+369,69,Male,Cancer
+370,94,Female,Cancer
+371,65,Male,Heart Disease
+372,49,Male,NULL
+373,12,Male,NULL
+374,35,Female,Kidney Disease
+375,1,Male,Kidney Disease
+376,6,Female,Kidney Disease
+377,2,Male,Kidney Disease
+378,59,Female,Diabetes
+379,49,Female,Cancer
+380,54,Male,NULL
+381,94,Female,Heart Disease
+382,27,Female,Cancer
+383,60,Male,Kidney Disease
+384,84,Male,NULL
+385,18,Female,NULL
+386,33,Male,Heart Disease
+387,74,Female,Kidney Disease
+388,35,Female,Kidney Disease
+389,37,Male,Diabetes
+390,82,Male,Kidney Disease
+391,71,Female,Heart Disease
+392,99,Male,NULL
+393,41,Female,Diabetes
+394,53,Male,Diabetes
+395,4,Male,NULL
+396,81,Male,Heart Disease
+397,52,Male,Diabetes
+398,96,Female,Diabetes
+399,23,Female,NULL
+400,46,Female,NULL
+401,54,Female,Heart Disease
+402,90,Male,Diabetes
+403,70,Male,Cancer
+404,93,Female,Diabetes
+405,75,Male,Cancer
+406,10,Male,Kidney Disease
+407,83,Female,Kidney Disease
+408,32,Male,NULL
+409,33,Female,Kidney Disease
+410,79,Female,NULL
+411,98,Female,NULL
+412,55,Female,Kidney Disease
+413,29,Male,Cancer
+414,29,Male,Heart Disease
+415,9,Female,Heart Disease
+416,98,Male,Kidney Disease
+417,28,Male,Heart Disease
+418,23,Female,Heart Disease
+419,25,Male,Diabetes
+420,42,Female,Heart Disease
+421,82,Female,Diabetes
+422,35,Female,NULL
+423,57,Male,Heart Disease
+424,48,Female,Cancer
+425,66,Female,Diabetes
+426,42,Male,Kidney Disease
+427,60,Male,Diabetes
+428,17,Female,Kidney Disease
+429,52,Female,Heart Disease
+430,52,Male,Kidney Disease
+431,20,Female,Diabetes
+432,69,Male,Heart Disease
+433,79,Female,Kidney Disease
+434,25,Male,Cancer
+435,39,Female,Heart Disease
+436,12,Female,Cancer
+437,87,Female,NULL
+438,76,Female,Heart Disease
+439,82,Female,Heart Disease
+440,79,Female,Cancer
+441,66,Male,NULL
+442,44,Male,NULL
+443,60,Female,Cancer
+444,25,Female,Diabetes
+445,7,Male,NULL
+446,53,Female,Kidney Disease
+447,31,Male,Cancer
+448,22,Female,Diabetes
+449,77,Male,Cancer
+450,32,Female,NULL
+451,80,Male,NULL
+452,44,Female,Heart Disease
+453,10,Female,Diabetes
+454,38,Female,Diabetes
+455,2,Female,Cancer
+456,50,Female,Diabetes
+457,30,Male,NULL
+458,68,Male,Diabetes
+459,0,Male,Diabetes
+460,42,Female,NULL
+461,88,Male,Cancer
+462,22,Male,Kidney Disease
+463,58,Female,Kidney Disease
+464,56,Male,NULL
+465,19,Female,NULL
+466,59,Male,Cancer
+467,28,Male,Kidney Disease
+468,59,Male,Diabetes
+469,97,Male,Diabetes
+470,46,Male,Cancer
+471,95,Female,Heart Disease
+472,68,Male,Heart Disease
+473,48,Female,Cancer
+474,55,Female,Cancer
+475,71,Female,NULL
+476,2,Male,Diabetes
+477,55,Male,Heart Disease
+478,38,Male,Diabetes
+479,8,Male,Heart Disease
+480,51,Male,Heart Disease
+481,10,Male,Cancer
+482,59,Female,Kidney Disease
+483,55,Female,Diabetes
+484,63,Male,Heart Disease
+485,84,Female,Heart Disease
+486,68,Female,Heart Disease
+487,73,Female,Kidney Disease
+488,97,Female,Cancer
+489,92,Female,Diabetes
+490,87,Female,Heart Disease
+491,98,Female,Diabetes
+492,86,Male,Kidney Disease
+493,88,Male,Cancer
+494,9,Male,NULL
+495,11,Female,Heart Disease
+496,83,Female,Diabetes
+497,6,Male,Diabetes
+498,97,Female,Heart Disease
+499,68,Male,Heart Disease
+500,16,Female,Cancer
+501,21,Female,NULL
+502,22,Female,Cancer
+503,84,Female,Heart Disease
+504,55,Female,Kidney Disease
+505,14,Female,Diabetes
+506,65,Female,NULL
+507,71,Male,Cancer
+508,12,Female,Heart Disease
+509,79,Male,Cancer
+510,26,Male,Heart Disease
+511,57,Female,Diabetes
+512,10,Female,Kidney Disease
+513,7,Female,Heart Disease
+514,17,Female,Diabetes
+515,14,Female,Diabetes
+516,65,Female,Cancer
+517,80,Male,Heart Disease
+518,23,Male,Diabetes
+519,99,Male,NULL
+520,69,Male,Kidney Disease
+521,93,Female,Kidney Disease
+522,93,Female,Cancer
+523,31,Male,Kidney Disease
+524,70,Female,NULL
+525,72,Female,Cancer
+526,47,Female,Heart Disease
+527,61,Male,Cancer
+528,4,Male,Cancer
+529,6,Male,Heart Disease
+530,87,Male,Kidney Disease
+531,90,Male,Diabetes
+532,61,Male,Diabetes
+533,76,Male,Diabetes
+534,51,Male,Kidney Disease
+535,39,Male,Diabetes
+536,29,Female,NULL
+537,47,Female,Cancer
+538,58,Male,Heart Disease
+539,46,Female,Cancer
+540,64,Female,Kidney Disease
+541,80,Male,NULL
+542,96,Female,Cancer
+543,50,Male,Heart Disease
+544,67,Female,Kidney Disease
+545,75,Male,NULL
+546,40,Female,Heart Disease
+547,69,Female,NULL
+548,37,Male,Diabetes
+549,68,Male,Heart Disease
+550,17,Male,Heart Disease
+551,30,Male,Heart Disease
+552,89,Female,NULL
+553,83,Male,Heart Disease
+554,26,Female,Heart Disease
+555,59,Female,NULL
+556,31,Female,NULL
+557,48,Male,Heart Disease
+558,75,Female,Cancer
+559,81,Male,Cancer
+560,35,Male,Diabetes
+561,90,Male,NULL
+562,96,Male,Diabetes
+563,45,Female,Heart Disease
+564,90,Female,Heart Disease
+565,5,Male,NULL
+566,43,Female,Diabetes
+567,76,Male,Diabetes
+568,30,Female,Cancer
+569,11,Female,Cancer
+570,22,Male,Heart Disease
+571,85,Male,Cancer
+572,82,Male,Diabetes
+573,43,Female,Diabetes
+574,23,Female,NULL
+575,61,Female,Diabetes
+576,99,Female,Diabetes
+577,11,Male,Kidney Disease
+578,45,Female,NULL
+579,97,Female,Kidney Disease
+580,86,Female,NULL
+581,41,Male,Kidney Disease
+582,8,Male,Cancer
+583,7,Male,Cancer
+584,53,Male,Cancer
+585,15,Female,Diabetes
+586,54,Female,Cancer
+587,61,Male,NULL
+588,65,Male,Kidney Disease
+589,64,Male,NULL
+590,25,Female,Kidney Disease
+591,79,Female,Kidney Disease
+592,61,Female,Kidney Disease
+593,17,Female,Diabetes
+594,38,Female,Diabetes
+595,44,Female,Heart Disease
+596,50,Male,Cancer
+597,38,Male,NULL
+598,54,Male,Kidney Disease
+599,96,Female,Cancer
+600,7,Male,Kidney Disease
+601,20,Female,Heart Disease
+602,31,Female,Diabetes
+603,35,Female,Kidney Disease
+604,88,Male,Cancer
+605,57,Male,Cancer
+606,38,Male,Diabetes
+607,32,Male,Cancer
+608,84,Female,Diabetes
+609,84,Male,Heart Disease
+610,5,Female,Cancer
+611,51,Male,Cancer
+612,87,Male,Cancer
+613,9,Male,NULL
+614,94,Male,Kidney Disease
+615,32,Female,Cancer
+616,74,Female,Cancer
+617,54,Female,Diabetes
+618,57,Female,Heart Disease
+619,54,Male,NULL
+620,94,Male,Diabetes
+621,9,Male,NULL
+622,66,Male,Heart Disease
+623,8,Female,Cancer
+624,7,Male,Cancer
+625,70,Male,NULL
+626,35,Female,Heart Disease
+627,36,Male,Heart Disease
+628,31,Female,Cancer
+629,50,Female,Heart Disease
+630,76,Male,NULL
+631,17,Male,Kidney Disease
+632,34,Female,NULL
+633,84,Female,Cancer
+634,78,Female,Heart Disease
+635,97,Male,Heart Disease
+636,46,Female,Heart Disease
+637,33,Male,NULL
+638,57,Female,Heart Disease
+639,22,Female,Kidney Disease
+640,85,Male,Diabetes
+641,93,Male,Heart Disease
+642,22,Female,Cancer
+643,44,Male,Diabetes
+644,11,Female,NULL
+645,23,Female,Diabetes
+646,0,Male,Cancer
+647,75,Male,Cancer
+648,97,Male,Cancer
+649,97,Female,Diabetes
+650,26,Male,Cancer
+651,8,Female,Diabetes
+652,70,Female,Heart Disease
+653,90,Female,Diabetes
+654,16,Male,Diabetes
+655,84,Male,Kidney Disease
+656,98,Male,NULL
+657,95,Male,Diabetes
+658,73,Male,Cancer
+659,37,Female,NULL
+660,22,Male,Heart Disease
+661,56,Male,Heart Disease
+662,45,Male,Diabetes
+663,36,Female,Kidney Disease
+664,7,Male,Diabetes
+665,48,Female,Cancer
+666,53,Male,Heart Disease
+667,47,Female,Heart Disease
+668,58,Male,NULL
+669,63,Male,NULL
+670,36,Male,NULL
+671,47,Female,Diabetes
+672,26,Female,NULL
+673,27,Male,Cancer
+674,14,Female,NULL
+675,25,Female,Cancer
+676,83,Male,Diabetes
+677,10,Female,NULL
+678,66,Female,Heart Disease
+679,4,Female,NULL
+680,35,Female,Kidney Disease
+681,62,Male,Cancer
+682,85,Female,Diabetes
+683,9,Male,NULL
+684,16,Male,Kidney Disease
+685,3,Male,Heart Disease
+686,43,Male,Diabetes
+687,76,Female,Cancer
+688,39,Male,Diabetes
+689,4,Female,NULL
+690,24,Male,Kidney Disease
+691,99,Female,Diabetes
+692,50,Female,Kidney Disease
+693,62,Male,Heart Disease
+694,70,Female,Cancer
+695,50,Female,Diabetes
+696,9,Female,Diabetes
+697,88,Female,Kidney Disease
+698,41,Female,Cancer
+699,57,Male,Kidney Disease
+700,70,Female,NULL
+701,50,Female,NULL
+702,37,Male,Heart Disease
+703,16,Female,NULL
+704,75,Female,NULL
+705,17,Male,Cancer
+706,7,Female,Heart Disease
+707,91,Female,Cancer
+708,50,Male,Kidney Disease
+709,96,Female,Heart Disease
+710,55,Female,Heart Disease
+711,85,Female,Diabetes
+712,46,Male,NULL
+713,3,Male,Kidney Disease
+714,23,Female,Cancer
+715,60,Male,Kidney Disease
+716,71,Male,Diabetes
+717,96,Female,Heart Disease
+718,44,Female,NULL
+719,62,Female,Diabetes
+720,39,Male,Diabetes
+721,0,Female,Kidney Disease
+722,53,Female,NULL
+723,35,Female,NULL
+724,15,Male,Kidney Disease
+725,54,Female,Cancer
+726,7,Female,Heart Disease
+727,81,Male,Heart Disease
+728,82,Female,Diabetes
+729,95,Male,Cancer
+730,73,Female,Heart Disease
+731,40,Female,Kidney Disease
+732,16,Male,Heart Disease
+733,48,Male,Heart Disease
+734,89,Male,Diabetes
+735,65,Female,Diabetes
+736,56,Female,Cancer
+737,83,Female,Cancer
+738,25,Female,Cancer
+739,26,Male,Cancer
+740,19,Female,Diabetes
+741,75,Female,NULL
+742,66,Female,Heart Disease
+743,5,Male,Diabetes
+744,69,Female,NULL
+745,0,Female,NULL
+746,79,Male,Kidney Disease
+747,94,Male,Diabetes
+748,3,Female,Heart Disease
+749,9,Male,Cancer
+750,56,Female,Cancer
+751,31,Male,Diabetes
+752,74,Male,Kidney Disease
+753,67,Female,Cancer
+754,6,Female,Diabetes
+755,64,Male,NULL
+756,28,Male,Kidney Disease
+757,25,Male,Cancer
+758,21,Male,Cancer
+759,95,Female,Kidney Disease
+760,57,Female,Kidney Disease
+761,33,Male,Diabetes
+762,39,Male,Heart Disease
+763,32,Male,Kidney Disease
+764,15,Male,Cancer
+765,74,Female,NULL
+766,1,Male,Kidney Disease
+767,33,Female,NULL
+768,41,Male,Diabetes
+769,3,Male,Cancer
+770,31,Female,Diabetes
+771,2,Male,Diabetes
+772,44,Female,Cancer
+773,2,Male,Kidney Disease
+774,65,Female,NULL
+775,87,Male,Heart Disease
+776,84,Male,Heart Disease
+777,29,Female,Heart Disease
+778,94,Male,Kidney Disease
+779,70,Female,Cancer
+780,6,Male,Heart Disease
+781,25,Male,Diabetes
+782,36,Male,Cancer
+783,74,Male,Cancer
+784,86,Female,Cancer
+785,1,Female,NULL
+786,89,Female,Heart Disease
+787,6,Male,Kidney Disease
+788,68,Male,NULL
+789,7,Male,NULL
+790,68,Female,NULL
+791,84,Female,NULL
+792,46,Male,NULL
+793,53,Female,NULL
+794,33,Male,Cancer
+795,21,Male,NULL
+796,19,Female,Diabetes
+797,89,Female,Heart Disease
+798,96,Female,Cancer
+799,65,Female,NULL
+800,62,Male,Cancer
+801,15,Male,Diabetes
+802,33,Male,Cancer
+803,24,Female,Heart Disease
+804,89,Male,Cancer
+805,25,Female,Cancer
+806,45,Male,Diabetes
+807,88,Female,Cancer
+808,29,Female,NULL
+809,43,Female,NULL
+810,72,Female,NULL
+811,97,Female,Heart Disease
+812,89,Male,Cancer
+813,62,Female,Diabetes
+814,93,Female,Heart Disease
+815,29,Female,Diabetes
+816,35,Female,Heart Disease
+817,7,Male,Cancer
+818,39,Female,Diabetes
+819,92,Female,Heart Disease
+820,61,Female,Cancer
+821,5,Female,Kidney Disease
+822,44,Female,Diabetes
+823,80,Male,Diabetes
+824,4,Female,Diabetes
+825,18,Female,NULL
+826,76,Male,Kidney Disease
+827,50,Male,Cancer
+828,70,Female,Kidney Disease
+829,72,Female,Cancer
+830,80,Female,Heart Disease
+831,76,Male,NULL
+832,25,Female,Diabetes
+833,62,Female,Cancer
+834,98,Female,Heart Disease
+835,71,Male,Heart Disease
+836,52,Male,Kidney Disease
+837,48,Male,NULL
+838,49,Male,NULL
+839,98,Male,NULL
+840,14,Female,Heart Disease
+841,28,Male,Heart Disease
+842,22,Male,NULL
+843,60,Female,Cancer
+844,49,Male,Cancer
+845,70,Female,Diabetes
+846,79,Female,Kidney Disease
+847,22,Male,Heart Disease
+848,39,Male,NULL
+849,47,Male,NULL
+850,15,Male,Diabetes
+851,56,Male,Cancer
+852,73,Female,Diabetes
+853,98,Male,Kidney Disease
+854,54,Female,Heart Disease
+855,71,Female,Cancer
+856,69,Female,Diabetes
+857,29,Male,Heart Disease
+858,24,Female,Diabetes
+859,96,Female,Kidney Disease
+860,54,Female,Cancer
+861,93,Male,Kidney Disease
+862,53,Female,Kidney Disease
+863,2,Female,NULL
+864,98,Female,Diabetes
+865,88,Female,Heart Disease
+866,10,Female,Heart Disease
+867,82,Female,Diabetes
+868,29,Female,Cancer
+869,17,Male,Diabetes
+870,60,Female,NULL
+871,86,Male,Kidney Disease
+872,73,Female,Diabetes
+873,60,Male,Cancer
+874,33,Female,NULL
+875,77,Male,Heart Disease
+876,85,Male,Heart Disease
+877,24,Female,Heart Disease
+878,35,Female,NULL
+879,51,Female,Diabetes
+880,58,Male,Kidney Disease
+881,11,Male,Heart Disease
+882,0,Male,Heart Disease
+883,75,Male,Cancer
+884,80,Male,Diabetes
+885,26,Male,Cancer
+886,69,Female,Diabetes
+887,70,Male,NULL
+888,30,Male,NULL
+889,60,Female,Kidney Disease
+890,77,Male,NULL
+891,87,Male,NULL
+892,45,Male,Heart Disease
+893,59,Female,Cancer
+894,0,Male,Heart Disease
+895,18,Male,Heart Disease
+896,69,Male,Heart Disease
+897,86,Female,Cancer
+898,5,Female,Cancer
+899,64,Female,Cancer
+900,31,Male,Kidney Disease
+901,65,Female,NULL
+902,10,Female,Diabetes
+903,69,Female,Heart Disease
+904,85,Male,Kidney Disease
+905,34,Female,Heart Disease
+906,76,Male,NULL
+907,51,Female,Diabetes
+908,47,Female,Diabetes
+909,83,Female,Cancer
+910,77,Female,Diabetes
+911,19,Male,Heart Disease
+912,57,Male,Cancer
+913,27,Male,Diabetes
+914,90,Female,Heart Disease
+915,97,Male,Kidney Disease
+916,38,Female,Cancer
+917,80,Female,Kidney Disease
+918,13,Female,Diabetes
+919,21,Male,Cancer
+920,52,Male,Cancer
+921,34,Female,Cancer
+922,85,Female,NULL
+923,38,Female,Heart Disease
+924,11,Male,Cancer
+925,42,Female,NULL
+926,11,Male,NULL
+927,68,Male,Cancer
+928,93,Female,NULL
+929,72,Male,Diabetes
+930,87,Male,Cancer
+931,4,Female,NULL
+932,38,Female,Cancer
+933,28,Male,Heart Disease
+934,89,Female,NULL
+935,84,Female,Heart Disease
+936,63,Female,Cancer
+937,57,Male,Kidney Disease
+938,16,Female,NULL
+939,99,Male,NULL
+940,8,Male,Kidney Disease
+941,35,Female,Diabetes
+942,19,Male,Kidney Disease
+943,24,Male,Cancer
+944,84,Female,Heart Disease
+945,56,Female,Diabetes
+946,18,Male,Heart Disease
+947,52,Male,Heart Disease
+948,28,Male,Heart Disease
+949,45,Female,NULL
+950,97,Male,Cancer
+951,13,Male,NULL
+952,73,Female,Diabetes
+953,51,Female,Kidney Disease
+954,64,Male,Kidney Disease
+955,12,Female,Heart Disease
+956,33,Female,Cancer
+957,37,Female,Heart Disease
+958,64,Female,Cancer
+959,25,Male,Heart Disease
+960,15,Female,Cancer
+961,85,Male,Kidney Disease
+962,90,Female,Kidney Disease
+963,36,Female,Heart Disease
+964,96,Female,Diabetes
+965,68,Female,Kidney Disease
+966,67,Male,Diabetes
+967,1,Male,Heart Disease
+968,84,Female,Diabetes
+969,84,Male,Kidney Disease
+970,95,Male,Diabetes
+971,26,Male,NULL
+972,41,Female,Cancer
+973,3,Male,Cancer
+974,60,Female,Kidney Disease
+975,79,Male,Cancer
+976,85,Female,Kidney Disease
+977,34,Female,NULL
+978,65,Male,Kidney Disease
+979,90,Male,Kidney Disease
+980,5,Male,Heart Disease
+981,1,Male,Heart Disease
+982,79,Female,Heart Disease
+983,54,Male,Cancer
+984,57,Female,NULL
+985,54,Male,Cancer
+986,52,Male,Cancer
+987,45,Female,Diabetes
+988,94,Female,NULL
+989,55,Female,Heart Disease
+990,29,Female,Kidney Disease
+991,45,Female,Cancer
+992,79,Female,Diabetes
+993,41,Female,Kidney Disease
+994,81,Male,Kidney Disease
+995,60,Female,NULL
+996,95,Male,Kidney Disease
+997,44,Male,NULL
+998,47,Female,Cancer
+999,70,Male,NULL
