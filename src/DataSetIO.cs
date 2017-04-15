@@ -1,6 +1,5 @@
-
 namespace Data {
-
+    
     using System;
     using System.IO;
     using System.Text;
@@ -9,11 +8,14 @@ namespace Data {
 
         private static String dataSetPath = @"data/dataset.txt";
 
-
+        
         public DataSetIO() {
             CreateDataSetFile();
         }
 
+        // Only to be called upon during Instantiation of a new DataSetIO object. 
+        // This method will clear the existing dataset.txt file and put in a file
+        // Header listing off what each entry in the data set consists of.
         private void CreateDataSetFile() {
             String writeHeader = "patientId,age,gender,disease" + Environment.NewLine;
 
@@ -25,11 +27,18 @@ namespace Data {
             }   
         }
 
+        // Writes the contents of the String parameter contents to the
+        // dataset.txt file.
         private void WriteDataSetToFile(String contents) {        
             String appendText = contents + Environment.NewLine;
             File.AppendAllText(dataSetPath, appendText);
         }
 
+        // Creates the data to write to the dataset.txt file.
+        // Patient Id is set based on the index of the for-loop.
+        // Patient age is randomly determined from 0 to 100 years old.
+        // Randomly selects gender and diseases from a string array.
+        // Data is then passed to the WriteDataSetToFile function.
         public void CreateDataSet(int DataSetSize) {
             
             String[] gender  = { "Male", "Female"};
