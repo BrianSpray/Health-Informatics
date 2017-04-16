@@ -1,0 +1,5 @@
+C:\Users\eveni\Documents\GitHub\Health-Informatics\obj\x86\Debug\Health-Informatics.csprojResolveAssemblyReference.cache
+C:\Users\eveni\Documents\GitHub\Health-Informatics\bin\Debug\ConsoleApplication.exe
+C:\Users\eveni\Documents\GitHub\Health-Informatics\bin\Debug\ConsoleApplication.pdb
+C:\Users\eveni\Documents\GitHub\Health-Informatics\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\eveni\Documents\GitHub\Health-Informatics\obj\x86\Debug\ConsoleApplication.pdb

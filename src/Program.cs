@@ -1,7 +1,5 @@
 using System;
-using System.IO;
-using System.Text;
-using Data;
+using System.Collections.Generic;
 
 public class Program {
 
@@ -14,5 +12,13 @@ public class Program {
         dataSet.CreateDataSet(1000);
         Console.WriteLine("Created dataset.");
         dataSet.ReadDataSet();
+
+        List<Patient> patients = dataSet.getPatientsList();
+
+        foreach (var patient in patients) {
+            Console.WriteLine("The Patient Id is {0} their age is {1} their gender is {2} their disease is {3}.", patient.patientId, patient.patientAge, patient.patientGender, patient.patientDisease);
+        }
+
+        
     }
 }
