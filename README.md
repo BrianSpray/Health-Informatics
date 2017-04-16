@@ -14,6 +14,7 @@ value you gave, and the maximum distance from the centroid to the farthest point
 clusters. It should also give the coordinates of the 'Outliers' in a separate output file. Outliers are those
 points that do not belong to any cluster. Note that there may be more than one clusters for the same
 disease. 
+
 Problem #2. Write a program for finding out the most probable path given a transition matrix, observation
 matrix, and initialization matrix in a data file. The emitted string should be given by the user, and the
 program should return all the probable sequence of states that would emit the given signals along with
