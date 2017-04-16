@@ -54,6 +54,7 @@ namespace Data {
         public void ReadDataSet() {
             var lines = File.ReadLines(dataSetPath);
             foreach (var line in lines) {
+                String[] dataSegments = line.split(",");
                 Console.WriteLine(line);
             }
         }
