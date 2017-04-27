@@ -14,4 +14,14 @@ public class Patient {
         this.patientDisease = patientDisease;
     }
 
+    public int PatientGenderToInteger(String patientGender) {
+        if (patientGender.Equals("Male")) {
+            return 0;
+        } else if (patientGender.Equals("Female")) {
+            return 1;
+        } else {
+            return 0;
+        }
+    }
+
 }

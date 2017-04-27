@@ -9,16 +9,23 @@ public class Program {
         // Data Set Creation
         Console.WriteLine("Creating Dataset...");
         DataSetIO dataSet = new DataSetIO();
-        dataSet.CreateDataSet(1000);
+        dataSet.CreateDataSet(25);
+
         Console.WriteLine("Created dataset.");
         dataSet.ReadDataSet();
 
+        Console.WriteLine("Initializing K-Means Algorithm with default Values");
+        KMeansAlgorithm kMeans = new KMeansAlgorithm();
         List<Patient> patients = dataSet.getPatientsList();
 
+        kMeans.DetermineInitialValues(patients);
+
         foreach (var patient in patients) {
-            Console.WriteLine("The Patient Id is {0} their age is {1} their gender is {2} their disease is {3}.", patient.patientId, patient.patientAge, patient.patientGender, patient.patientDisease);
+            kMeans.IntializePoints(patient);
         }
 
-        
+        kMeans.PlantSeeds();
+        kMeans.CalculateClusterContents();
+        kMeans.DetermineOutliers();
     }
 }
