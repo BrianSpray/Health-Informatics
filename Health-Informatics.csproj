@@ -115,11 +115,11 @@
     <Content Include="data\dataset.txt" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="src\Cluster.cs" />
-    <Compile Include="src\DataSetIO.cs" />
-    <Compile Include="src\KMeansAlgorithm.cs" />
-    <Compile Include="src\Patient.cs" />
-    <Compile Include="src\Point.cs" />
+    <Compile Include="src\kmeans\Cluster.cs" />
+    <Compile Include="src\kmeans\DataSetIO.cs" />
+    <Compile Include="src\kmeans\KMeansAlgorithm.cs" />
+    <Compile Include="src\kmeans\Patient.cs" />
+    <Compile Include="src\kmeans\Point.cs" />
     <Compile Include="src\Program.cs" />
   </ItemGroup>
   <ItemGroup>

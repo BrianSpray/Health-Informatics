@@ -1,31 +1,51 @@
 using System;
 using System.Collections.Generic;
+using kmeans;
 
 public class Program {
 
     public static void Main() {
-        Console.WriteLine("Launching Application...");
 
-        // Data Set Creation
-        Console.WriteLine("Creating Dataset...");
-        DataSetIO dataSet = new DataSetIO();
-        dataSet.CreateDataSet(25);
+        String userInput;
 
-        Console.WriteLine("Created dataset.");
-        dataSet.ReadDataSet();
+        Console.WriteLine("Would you like to Run Problem 1 or Problem 2? [1/2]");
+        userInput = Console.ReadLine();
 
-        Console.WriteLine("Initializing K-Means Algorithm with default Values");
-        KMeansAlgorithm kMeans = new KMeansAlgorithm();
-        List<Patient> patients = dataSet.getPatientsList();
+        if (userInput.Equals("1")) {
 
-        kMeans.DetermineInitialValues(patients);
+            DataSetIO dataSet;
 
-        foreach (var patient in patients) {
-            kMeans.IntializePoints(patient);
-        }
+            Console.WriteLine("Would you like to create a new data set? [y/n]");
+            userInput = Console.ReadLine();
 
-        kMeans.PlantSeeds();
-        kMeans.CalculateClusterContents();
-        kMeans.DetermineOutliers();
+            if (userInput.Equals("y")) {
+                dataSet = new DataSetIO(true);
+                Console.WriteLine("How many entries would you like in your data set? [Any Number]");
+                userInput = Console.ReadLine();
+                dataSet.CreateDataSet(Convert.ToInt32(userInput));
+                Console.WriteLine("Created dataset.");
+            } else {
+                dataSet = new DataSetIO(false);
+                Console.WriteLine("Using Existing Dataset");
+            }           
+
+            dataSet.ReadDataSet();
+
+            KMeansAlgorithm kMeans = new KMeansAlgorithm();
+            List<Patient> patients = dataSet.getPatientsList();
+
+            kMeans.DetermineInitialValues(patients);
+
+            foreach (var patient in patients) {
+                kMeans.IntializePoints(patient);
+            }
+
+            kMeans.PlantSeeds();
+            kMeans.CalculateClusterContents();
+            kMeans.DetermineOutliers();
+
+        } else {
+
+        }       
     }
 }
