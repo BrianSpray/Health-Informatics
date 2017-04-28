@@ -1,0 +1,9 @@
+Outlier: 0, 24
+Outlier: 1, 7
+Outlier: 1, 53
+Outlier: 1, 52
+Outlier: 0, 38
+Outlier: 0, 86
+Outlier: 0, 70
+Outlier: 0, 95
+Outlier: 1, 65

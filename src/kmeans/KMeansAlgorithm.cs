@@ -51,7 +51,7 @@ namespace kmeans
                 cluster.centroid = centroid;
                 clusters.Add(cluster);
             }
-            printClusters();
+            ClusterIO.WriteClusters(numberOfClusters, clusters, 0, 0);
 
         }
 
@@ -70,77 +70,72 @@ namespace kmeans
                     }
                 }
             }
-            printClusters();
+            ClusterIO.WriteClusters(numberOfClusters, clusters, 0, 0);
+            ClusterIO.WriteOutliers(outliers);
         }
 
-        private void clearClusters()
-        {
-            foreach (Cluster cluster in clusters)
-            {
-                cluster.Clear();
-            }
-        }
 
-        private ArrayList getCentroids()
+        private ArrayList GetCentroids()
         {
             ArrayList centroids = new ArrayList(numberOfClusters);
             foreach (Cluster cluster in clusters)
             {
-                Point auxillary = cluster.centroid;
-                Point point = new Point(auxillary.xCoord, auxillary.yCoord);
-                centroids.Add(point);
+                Point original = cluster.centroid;
+                Point newPoint = new Point(original.xCoord, original.yCoord);
+                centroids.Add(newPoint);
             }
             return centroids;
         }
 
-        private void assignCluster()
+        private void DetermineCluster()
         {
-            double max = Double.MaxValue;
-            double min = max;
-            int cluster = 0;
+            int clusterId = 0;
+
+            double maxValueInCluster = Double.MaxValue;
+            double minValueInCluster = maxValueInCluster;
             double distance = 0.0;
 
             foreach (Point point in points)
             {
-                min = max;
+                minValueInCluster = maxValueInCluster;
                 for (int i = 0; i < numberOfClusters; i++)
                 {
                     Cluster clus = (Cluster)clusters[i];
                     distance = Point.EuclideanDistance(point, clus.centroid);
-                    if (distance < min)
+                    if (distance < minValueInCluster)
                     {
-                        min = distance;
-                        cluster = i;
+                        minValueInCluster = distance;
+                        clusterId = i;
                     }
                 }
-                point.clusterId = cluster;
-                ((Cluster)clusters[cluster]).AddPoint(point);
+                point.clusterId = clusterId;
+                ((Cluster) clusters[clusterId]).AddPoint(point);
             }
         }
 
 
-        private void calculateCentroids()
+        private void SetClusters()
         {
             foreach (Cluster cluster in clusters)
             {
-                int sumX = 0;
-                int sumY = 0;
+                int sumOfXCoords = 0;
+                int SumOfYCoords = 0;
                 ArrayList temp = cluster.GetPoints();
                 int numberOfPoints = temp.Count;
 
                 foreach (Point point in temp)
                 {
-                    sumX += point.xCoord;
-                    sumY += point.yCoord;
+                    sumOfXCoords += point.xCoord;
+                    SumOfYCoords += point.yCoord;
                 }
 
                 Point centroid = cluster.centroid;
                 if (numberOfPoints > 0)
                 {
-                    int newX = sumX / numberOfPoints;
-                    int newY = sumY / numberOfPoints;
-                    centroid.xCoord = newX;
-                    centroid.yCoord = newY;
+                    int newAverageXCoord = sumOfXCoords / numberOfPoints;
+                    int newAverageYCoord = SumOfYCoords / numberOfPoints;
+                    centroid.xCoord = newAverageXCoord;
+                    centroid.yCoord = newAverageYCoord;
                 }
             }
         }
@@ -148,23 +143,26 @@ namespace kmeans
         public void CalculateClusterContents()
         {
 
-            bool finish = false;
+            bool exit = false;
             int iteration = 0;
 
-            while (!finish)
+            while (!exit)
             {
 
-                clearClusters();
+                foreach (Cluster cluster in clusters)
+                {
+                    cluster.Clear();
+                }
 
-                ArrayList lastCentroids = getCentroids();
+                ArrayList lastCentroids = GetCentroids();
 
-                assignCluster();
+                DetermineCluster();
 
-                calculateCentroids();
+                SetClusters();
 
                 iteration++;
 
-                ArrayList currentCentroids = getCentroids();
+                ArrayList currentCentroids = GetCentroids();
 
                 double distance = 0;
 
@@ -172,30 +170,14 @@ namespace kmeans
                 {
                     distance += Point.EuclideanDistance(((Point)lastCentroids[i]), ((Point)currentCentroids[i]));
                 }
-                Console.WriteLine("###################");
-                Console.WriteLine("Iteration " + iteration);
-                Console.WriteLine("Centroid distances " + distance);
-                printClusters();
+                ClusterIO.WriteClusters(numberOfClusters, clusters, iteration, distance);
 
                 if (distance == 0)
                 {
-                    finish = true;
+                    exit = true;
                 }
             }
-
-        }
-
-
-        private void printClusters()
-        {
-            for (int i = 0; i < numberOfClusters; i++)
-            {
-                Cluster cluster = (Cluster)clusters[i];
-                cluster.plotCluster();
-            }
-        }
-
-
+        }       
     }
 }
 

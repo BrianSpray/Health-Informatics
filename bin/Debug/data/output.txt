@@ -1,0 +1,163 @@
+=====Iteration: 0 Centroid Distance: 0=====
+Cluster ID: 0 Cluster Centroid: 2, 11 Cluster Points: 
+
+=====Iteration: 0 Centroid Distance: 0=====
+Cluster ID: 1 Cluster Centroid: 8, 31 Cluster Points: 
+
+=====Iteration: 0 Centroid Distance: 0=====
+Cluster ID: 2 Cluster Centroid: 26, 0 Cluster Points: 
+
+=====Iteration: 0 Centroid Distance: 0=====
+Cluster ID: 3 Cluster Centroid: 0, 71 Cluster Points: 
+
+=====Iteration: 1 Centroid Distance: 16.1022817677342=====
+Cluster ID: 0 Cluster Centroid: 0, 15 Cluster Points: 
+     Point: (0, 17)
+     Point: (0, 21)
+     Point: (0, 18)
+     Point: (1, 7)
+
+=====Iteration: 1 Centroid Distance: 16.1022817677342=====
+Cluster ID: 1 Cluster Centroid: 0, 38 Cluster Points: 
+     Point: (0, 24)
+     Point: (0, 35)
+     Point: (0, 46)
+     Point: (1, 49)
+     Point: (0, 38)
+
+=====Iteration: 1 Centroid Distance: 16.1022817677342=====
+Cluster ID: 2 Cluster Centroid: 26, 0 Cluster Points: 
+
+=====Iteration: 1 Centroid Distance: 16.1022817677342=====
+Cluster ID: 3 Cluster Centroid: 0, 70 Cluster Points: 
+     Point: (1, 53)
+     Point: (0, 86)
+     Point: (1, 72)
+     Point: (0, 70)
+     Point: (0, 67)
+     Point: (0, 72)
+     Point: (1, 52)
+     Point: (0, 57)
+     Point: (0, 95)
+     Point: (0, 90)
+     Point: (1, 65)
+
+=====Iteration: 2 Centroid Distance: 13=====
+Cluster ID: 0 Cluster Centroid: 0, 17 Cluster Points: 
+     Point: (0, 24)
+     Point: (0, 17)
+     Point: (0, 21)
+     Point: (0, 18)
+     Point: (1, 7)
+
+=====Iteration: 2 Centroid Distance: 13=====
+Cluster ID: 1 Cluster Centroid: 0, 45 Cluster Points: 
+     Point: (1, 53)
+     Point: (0, 35)
+     Point: (0, 46)
+     Point: (1, 52)
+     Point: (1, 49)
+     Point: (0, 38)
+
+=====Iteration: 2 Centroid Distance: 13=====
+Cluster ID: 2 Cluster Centroid: 26, 0 Cluster Points: 
+
+=====Iteration: 2 Centroid Distance: 13=====
+Cluster ID: 3 Cluster Centroid: 0, 74 Cluster Points: 
+     Point: (0, 86)
+     Point: (1, 72)
+     Point: (0, 70)
+     Point: (0, 67)
+     Point: (0, 72)
+     Point: (0, 57)
+     Point: (0, 95)
+     Point: (0, 90)
+     Point: (1, 65)
+
+=====Iteration: 3 Centroid Distance: 5=====
+Cluster ID: 0 Cluster Centroid: 0, 17 Cluster Points: 
+     Point: (0, 24)
+     Point: (0, 17)
+     Point: (0, 21)
+     Point: (0, 18)
+     Point: (1, 7)
+
+=====Iteration: 3 Centroid Distance: 5=====
+Cluster ID: 1 Cluster Centroid: 0, 47 Cluster Points: 
+     Point: (1, 53)
+     Point: (0, 35)
+     Point: (0, 46)
+     Point: (1, 52)
+     Point: (0, 57)
+     Point: (1, 49)
+     Point: (0, 38)
+
+=====Iteration: 3 Centroid Distance: 5=====
+Cluster ID: 2 Cluster Centroid: 26, 0 Cluster Points: 
+
+=====Iteration: 3 Centroid Distance: 5=====
+Cluster ID: 3 Cluster Centroid: 0, 77 Cluster Points: 
+     Point: (0, 86)
+     Point: (1, 72)
+     Point: (0, 70)
+     Point: (0, 67)
+     Point: (0, 72)
+     Point: (0, 95)
+     Point: (0, 90)
+     Point: (1, 65)
+
+=====Iteration: 4 Centroid Distance: 0=====
+Cluster ID: 0 Cluster Centroid: 0, 17 Cluster Points: 
+     Point: (0, 24)
+     Point: (0, 17)
+     Point: (0, 21)
+     Point: (0, 18)
+     Point: (1, 7)
+
+=====Iteration: 4 Centroid Distance: 0=====
+Cluster ID: 1 Cluster Centroid: 0, 47 Cluster Points: 
+     Point: (1, 53)
+     Point: (0, 35)
+     Point: (0, 46)
+     Point: (1, 52)
+     Point: (0, 57)
+     Point: (1, 49)
+     Point: (0, 38)
+
+=====Iteration: 4 Centroid Distance: 0=====
+Cluster ID: 2 Cluster Centroid: 26, 0 Cluster Points: 
+
+=====Iteration: 4 Centroid Distance: 0=====
+Cluster ID: 3 Cluster Centroid: 0, 77 Cluster Points: 
+     Point: (0, 86)
+     Point: (1, 72)
+     Point: (0, 70)
+     Point: (0, 67)
+     Point: (0, 72)
+     Point: (0, 95)
+     Point: (0, 90)
+     Point: (1, 65)
+
+=====Iteration: 0 Centroid Distance: 0=====
+Cluster ID: 0 Cluster Centroid: 0, 17 Cluster Points: 
+     Point: (0, 17)
+     Point: (0, 21)
+     Point: (0, 18)
+
+=====Iteration: 0 Centroid Distance: 0=====
+Cluster ID: 1 Cluster Centroid: 0, 47 Cluster Points: 
+     Point: (0, 35)
+     Point: (0, 46)
+     Point: (0, 57)
+     Point: (1, 49)
+
+=====Iteration: 0 Centroid Distance: 0=====
+Cluster ID: 2 Cluster Centroid: 26, 0 Cluster Points: 
+
+=====Iteration: 0 Centroid Distance: 0=====
+Cluster ID: 3 Cluster Centroid: 0, 77 Cluster Points: 
+     Point: (1, 72)
+     Point: (0, 67)
+     Point: (0, 72)
+     Point: (0, 90)
+

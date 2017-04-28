@@ -33,6 +33,7 @@ public class Program {
 
             KMeansAlgorithm kMeans = new KMeansAlgorithm();
             List<Patient> patients = dataSet.getPatientsList();
+            ClusterIO.ClearDataSet();
 
             kMeans.DetermineInitialValues(patients);
 

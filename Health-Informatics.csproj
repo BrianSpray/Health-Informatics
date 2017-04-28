@@ -116,6 +116,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="src\kmeans\Cluster.cs" />
+    <Compile Include="src\kmeans\ClusterIO.cs" />
     <Compile Include="src\kmeans\DataSetIO.cs" />
     <Compile Include="src\kmeans\KMeansAlgorithm.cs" />
     <Compile Include="src\kmeans\Patient.cs" />
@@ -126,6 +127,7 @@
     <Folder Include=".git\objects\info\" />
     <Folder Include=".git\objects\pack\" />
     <Folder Include=".git\refs\tags\" />
+    <Folder Include="src\matrix\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
   <ProjectExtensions>

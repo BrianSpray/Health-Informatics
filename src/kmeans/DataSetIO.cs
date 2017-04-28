@@ -7,9 +7,9 @@ namespace kmeans
     public class DataSetIO
     {
 
-        private static String dataSetPath = @"./data/dataset.txt";
+        private String dataSetPath = @"./data/dataset.txt";
 
-        private static List<Patient> patients = new List<Patient>();
+        private List<Patient> patients = new List<Patient>();
 
         public DataSetIO(bool newFile)
         {

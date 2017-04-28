@@ -32,17 +32,5 @@ namespace kmeans
             clusterContents.Clear();
         }
 
-        public void plotCluster()
-        {
-            Console.WriteLine("[Cluster: " + clusterId + "]");
-            Console.WriteLine("[Centroid: " + centroid.xCoord + ", " + centroid.yCoord + "]");
-            Console.WriteLine("[Points: \n");
-            foreach (Point point in clusterContents)
-            {
-                Console.WriteLine("     Point: (" + point.xCoord + ", " + point.yCoord + ")");
-            }
-            Console.WriteLine("]");
-        }
-
     }
 }
