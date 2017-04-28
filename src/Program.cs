@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using kmeans;
+using matrix;
 
 public class Program {
 
@@ -47,6 +48,10 @@ public class Program {
 
         } else {
 
+            Console.WriteLine("Please enter a path in the format of 0,1,2 for numbers [0-2]");
+            userInput = Console.ReadLine();
+
+            Matrix.DisplayProbability(Matrix.RequestedEmisition(userInput));
         }       
     }
 }

@@ -121,13 +121,13 @@
     <Compile Include="src\kmeans\KMeansAlgorithm.cs" />
     <Compile Include="src\kmeans\Patient.cs" />
     <Compile Include="src\kmeans\Point.cs" />
+    <Compile Include="src\matrix\Matrix.cs" />
     <Compile Include="src\Program.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include=".git\objects\info\" />
     <Folder Include=".git\objects\pack\" />
     <Folder Include=".git\refs\tags\" />
-    <Folder Include="src\matrix\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
   <ProjectExtensions>
