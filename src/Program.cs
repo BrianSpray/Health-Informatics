@@ -52,6 +52,8 @@ public class Program {
             userInput = Console.ReadLine();
 
             Matrix.DisplayProbability(Matrix.RequestedEmisition(userInput));
+
+            //MatrixIO.ReadMatrixData();
         }       
     }
 }

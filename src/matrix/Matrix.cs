@@ -14,13 +14,13 @@ namespace matrix
 
         private static double probability;
 
-        private static double[] intialMatrixData = new double[] { 0.9, 0.06, 0.04 };
+        private static double[] initialMatrixData = new double[] { 0.9, 0.06, 0.04 };
 
         private static double[,] tranisitonMatrixData = new double[3, 3] {
             
-            {0.5, 0.4, 0.1},
-            {0.3, 0.1, 0.6},
-            {0.0, 0.1, 0.9}
+            { 0.5, 0.4, 0.1 },
+            { 0.3, 0.1, 0.6 },
+            { 0.0, 0.1, 0.9 }
         
         };
 
@@ -42,7 +42,7 @@ namespace matrix
         
         private static double InitialProbability(int[] path)
         {
-            return probability = intialMatrixData[path[0]];
+            return probability = initialMatrixData[path[0]];
         } 
         
         private static double MoreProbability(int[] path)
@@ -60,7 +60,7 @@ namespace matrix
             
 
             if (count == 0) {
-                probability = intialMatrixData[path[0]];
+                probability = initialMatrixData[path[0]];
                 count++;
                 return MoreProbability(path);
             } else if (count == path.Length) {
