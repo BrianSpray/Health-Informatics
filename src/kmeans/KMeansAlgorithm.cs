@@ -31,7 +31,7 @@ namespace kmeans
             numberOfPoints = patients.Count;
             minimumCoord = 0;
             maximumCoord = 100;
-            clusterThreshold = 5;
+            clusterThreshold = 9;
         }
 
         public void IntializePoints(Patient patient)
@@ -52,7 +52,6 @@ namespace kmeans
                 clusters.Add(cluster);
             }
             ClusterIO.WriteClusters(numberOfClusters, clusters, 0, 0);
-
         }
 
         public void DetermineOutliers()
@@ -87,7 +86,7 @@ namespace kmeans
             return centroids;
         }
 
-        private void DetermineCluster()
+        private void DeterminePointsInCluster()
         {
             int clusterId = 0;
 
@@ -156,10 +155,8 @@ namespace kmeans
 
                 ArrayList lastCentroids = GetCentroids();
 
-                DetermineCluster();
-
+                DeterminePointsInCluster();
                 SetClusters();
-
                 iteration++;
 
                 ArrayList currentCentroids = GetCentroids();
@@ -168,7 +165,7 @@ namespace kmeans
 
                 for (int i = 0; i < lastCentroids.Count; i++)
                 {
-                    distance += Point.EuclideanDistance(((Point)lastCentroids[i]), ((Point)currentCentroids[i]));
+                    distance += Point.EuclideanDistance(((Point) lastCentroids[i]), ((Point) currentCentroids[i]));
                 }
                 ClusterIO.WriteClusters(numberOfClusters, clusters, iteration, distance);
 

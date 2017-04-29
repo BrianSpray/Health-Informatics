@@ -1,20 +1,8 @@
-0,53,Female,Heart Disease
-1,24,Male,Heart Disease
-2,86,Male,Kidney Disease
-3,72,Female,Cancer
-4,70,Male,NULL
-5,67,Male,Cancer
-6,72,Male,Kidney Disease
-7,35,Male,Cancer
-8,46,Male,Diabetes
-9,17,Male,Kidney Disease
-10,52,Female,Heart Disease
-11,57,Male,Cancer
-12,95,Male,NULL
-13,49,Female,Cancer
-14,38,Male,Cancer
-15,90,Male,NULL
-16,65,Female,Kidney Disease
-17,21,Male,NULL
-18,18,Male,Diabetes
-19,7,Female,Heart Disease
+0,13,Male,NULL
+1,28,Male,NULL
+2,78,Male,Diabetes
+3,38,Female,NULL
+4,23,Female,NULL
+5,47,Female,Cancer
+6,68,Female,NULL
+7,99,Male,Diabetes

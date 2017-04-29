@@ -122,6 +122,7 @@
     <Compile Include="src\kmeans\Patient.cs" />
     <Compile Include="src\kmeans\Point.cs" />
     <Compile Include="src\matrix\Matrix.cs" />
+    <Compile Include="src\matrix\MatrixIO.cs" />
     <Compile Include="src\Program.cs" />
   </ItemGroup>
   <ItemGroup>
