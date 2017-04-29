@@ -161,8 +161,8 @@ namespace kmeans
 
                 ArrayList currentCentroids = GetCentroids();
 
+                iteration++;
                 double distance = 0;
-
                 for (int i = 0; i < lastCentroids.Count; i++)
                 {
                     distance += Point.EuclideanDistance(((Point) lastCentroids[i]), ((Point) currentCentroids[i]));
