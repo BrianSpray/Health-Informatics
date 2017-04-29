@@ -66,7 +66,7 @@ namespace matrix
             } else if (count == path.Length) {
                 return probability;
             } else {
-                probability *= tranisitonMatrixData[path[count], path[previousCount]];
+                probability *= tranisitonMatrixData[path[previousCount], path[count]];
                 count++;
                 return MoreProbability(path);
             }           
